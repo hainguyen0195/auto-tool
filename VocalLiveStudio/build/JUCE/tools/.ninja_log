@@ -1,0 +1,11 @@
+# ninja log v7
+16	58	8159213981525162	D:/auto-tool/VocalLiveStudio/build/JUCE/tools/CMakeFiles/cmake.verify_globs	c542bc65660394ad
+113	8247	8159210031645523	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.obj	b1b61cf9e524b5ff
+80	9758	8159210031321106	extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.obj	607378e5629bed2c
+85	9990	8159210031371072	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.obj	e8f9fe3efbf8d196
+101	10680	8159210031534551	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.obj	412f1ff221d401ac
+95	23060	8159210031467954	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.obj	17f035326bc1d457
+107	24408	8159210031589808	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.obj	6b932ab721a693c5
+90	112440	8159210031428030	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.obj	9d74defcd60486ee
+112441	114470	8159211154924437	extras/Build/juceaide/juceaide_artefacts/Debug/juceaide.exe	f47caaa214eced81
+15	56	8159214769073548	D:/auto-tool/VocalLiveStudio/build/JUCE/tools/CMakeFiles/cmake.verify_globs	c542bc65660394ad

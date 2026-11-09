@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/auto-tool/VocalLiveStudio/build/JUCE/tools/cmake_install.cmake",
+		"D:/auto-tool/VocalLiveStudio/build/JUCE/tools/modules/cmake_install.cmake",
+		"D:/auto-tool/VocalLiveStudio/build/JUCE/tools/extras/Build/cmake_install.cmake",
+		"D:/auto-tool/VocalLiveStudio/build/JUCE/tools/extras/Build/juceaide/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
